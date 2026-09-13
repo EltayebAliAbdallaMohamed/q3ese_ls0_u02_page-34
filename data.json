@@ -1,0 +1,105 @@
+
+
+[ 
+    
+  {
+    "text": "Listen and identify the stressed words.",
+    "arabic": "استمع وحدد الكلمات المشددة.",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "Listen and identify the stressed words.",
+    "arabicScript": "استمع وحدد الكلمات المشددة."
+  }, 
+  {
+    "text": "Does the school have a fencing team.",
+    "arabic": "هل لدى المدرسة فريق للمبارزة؟",
+    "image": "",
+    "audio": "audio/Does the school have a fencing team.mp3",
+    "audioScript": "Does the school have a fencing team",
+    "arabicScript": "هل لدى المدرسة فريق للمبارزة؟"
+  }, 
+  {
+    "text": "I have two classes in the morning.",
+    "arabic": "لدي حصتان في الصباح",
+    "image": "",
+    "audio": "audio/I have two classes in the morning.mp3",
+    "audioScript": "I have two classes in the morning",
+    "arabicScript": "لدي حصتان في الصباح"
+  }, 
+  {
+    "text": "We want a safe and clean school.",
+    "arabic": "نحن نريد مدرسة آمنة ونظيفة",
+    "image": "",
+    "audio": "audio/We want a safe and clean school.mp3",
+    "audioScript": "We want a safe and clean school",
+    "arabicScript": "نحن نريد مدرسة آمنة ونظيفة"
+  }, 
+  {
+    "text": "The college is in a dangerous city.",
+    "arabic": "الكلية في مدينة خطيرة",
+    "image": "",
+    "audio": "audio/The college is in a dangerous city.mp3",
+    "audioScript": "The college is in a dangerous city",
+    "arabicScript": "الكلية في مدينة خطيرة"
+  }, 
+  {
+    "text": "The coffee shops have free Internet access.",
+    "arabic": "المقاهي توفر الوصول المجاني للإنترنت",
+    "image": "",
+    "audio": "audio/The coffee shops have free Internet access.mp3",
+    "audioScript": "The coffee shops have free Internet access.",
+    "arabicScript": "المقاهي توفر الوصول المجاني للإنترنت"
+  }, 
+  {
+    "text": "What is a good school?",
+    "arabic": "ما هي المدرسة الجيدة؟",
+    "image": "",
+    "audio": "audio/What is a good school.mp3",
+    "audioScript": "",
+    "arabicScript": "ما هي المدرسة الجيدة؟"
+  }, 
+  {
+    "text": "Our sports field is pretty big.",
+    "arabic": "ملعبنا الرياضي كبير نوعاً ما",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "Our sports field is pretty big.",
+    "arabicScript": "ملعبنا الرياضي كبير نوعاً ما"
+  }, 
+  {
+    "text": "My school is really great.",
+    "arabic": "مدرستي رائعة حقًا",
+    "image": "",
+    "audio": "audio/My school is really great.mp3",
+    "audioScript": "My school is really great.",
+    "arabicScript": "مدرستي رائعة حقًا"
+  },
+  
+   {
+    "text": "The museum is not interesting.",
+    "arabic": "المتحف ليس ممتعًا",
+    "image": "",
+    "audio": "audio/The museum is not interesting.mp3",
+    "audioScript": "The museum is not interesting",
+    "arabicScript": "المتحف ليس ممتعًا"
+  },
+  {
+    "text": "Do you have a class today?",
+    "arabic": "هل عندك درس اليوم؟",
+    "image": "",
+    "audio": "audio/Do you have a class today.mp3",
+    "audioScript": "Do you have a class today?",
+    "arabicScript": "هل عندك درس اليوم؟"
+  },
+  {
+    "text": "There are two sports fields",
+    "arabic": "هناك ملعبان رياضيان",
+    "image": "",
+    "audio": "audio/There are two sports fields.mp3",
+    "audioScript": "There are two sports fields",
+    "arabicScript": "هناك ملعبان رياضيان"
+  }
+
+  
+    
+]

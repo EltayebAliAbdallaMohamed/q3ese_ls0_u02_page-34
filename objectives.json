@@ -1,0 +1,51 @@
+
+
+[ 
+   {
+    "text": "I can stress important words.",
+    "arabic": "أستطيع التأكيد على الكلمات المهمة",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "I can stress important words.",
+    "arabicScript": "أستطيع التأكيد على الكلمات المهمة"
+  }, 
+    {
+    "text": "When you speak, you stress certain important words.",
+    "arabic": "عندما تتحدث، تُشدد على بعض الكلمات المهمة",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "When you speak, you stress certain important words.",
+    "arabicScript": "عندما تتحدث، تُشدد على بعض الكلمات المهمة"
+  }, 
+  {
+    "text": "This means you say them a little more loudly.",
+    "arabic": "هذا يعني أنك تقولها بصوت أعلى قليلاً",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "This means you say them a little more loudly.",
+    "arabicScript": "هذا يعني أنك تقولها بصوت أعلى قليلاً"
+  }, 
+  {
+    "text": "Important words like nouns, adjectives, and adverbs give the main information in the sentence.",
+    "arabic": "الكلمات المهمة مثل الأسماء، الصفات، والظروف تعطي المعلومات الأساسية في الجملة",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "Important words like nouns, adjectives, and adverbs give the main information in the sentence.",
+    "arabicScript": "الكلمات المهمة مثل الأسماء، الصفات، والظروف تعطي المعلومات الأساسية في الجملة"
+  }, 
+  {
+    "text": "You don't usually stress words like pronouns and prepositions.",
+    "arabic": "",
+    "image": "",
+    "audio": "audio/.mp3",
+    "audioScript": "You don't usually stress words like pronouns and prepositions.",
+    "arabicScript": ""
+  }
+    
+
+
+  
+  
+  
+  
+]
